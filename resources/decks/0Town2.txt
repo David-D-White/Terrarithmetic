@@ -1,0 +1,9 @@
+12
+1 /cards/numbers1.png 1 /cards/numbers1.png 1 /cards/numbers1.png
+2 /cards/numbers2.png 2 /cards/numbers2.png 2 /cards/numbers2.png
+3 /cards/numbers3.png 3 /cards/numbers3.png 3 /cards/numbers3.png
+4 /cards/numbers4.png 4 /cards/numbers4.png 4 /cards/numbers4.png
+5 
+- /cards/operators1.png - /cards/operators1.png 
++ /cards/operators0.png + /cards/operators0.png
+x /cards/operators2.png

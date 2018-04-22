@@ -1,0 +1,6 @@
+3
+100 /cards/numbers10.png 100 /cards/numbers10.png 100 /cards/numbers10.png
+6 
+- /cards/operators1.png - /cards/operators1.png - /cards/operators1.png
+x /cards/operators2.png x /cards/operators2.png x /cards/operators2.png
+ 
