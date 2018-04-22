@@ -1,5 +1,0 @@
-true
-Violet  New Player
-11 25
-/Town1/Town1.txt
-0 0
